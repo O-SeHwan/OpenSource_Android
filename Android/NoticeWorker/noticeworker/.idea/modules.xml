@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NoticeWorker.iml" filepath="$PROJECT_DIR$/../NoticeWorker.iml" group="NoticeWorker" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="NoticeWorker/app" />
+      <module fileurl="file://$PROJECT_DIR$/noticeworker.iml" filepath="$PROJECT_DIR$/noticeworker.iml" group="NoticeWorker/noticeworker" />
+    </modules>
+  </component>
+</project>
