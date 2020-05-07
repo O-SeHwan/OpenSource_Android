@@ -37,5 +37,13 @@ dependencies {
 
     //implementation group: 'org.jsoup', name: 'jsoup', version: '1.12.1'
 }
+
+
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.SeHwanOh'
+group='com.github.SeHwanOh' // {groupname} 입력
+version = '0.1'
+
+
+repositories {
+    mavenCentral()
+}
