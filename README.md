@@ -28,11 +28,14 @@ JitPack URL : https://jitpack.io/#SeHwanOh/OpenSource_Android
   
 [![Version](https://img.shields.io/badge/version-v0.7.0-green.svg?style=flat)]
 (https://jitpack.io/#SeHwanOh/OpenSource_Android)
-[![Version](https://img.shields.io/badge/ios-11.0-blue.svg?style=flat)] (https://jitpack.io/#SeHwanOh/OpenSource_Android)
-[![Version](https://img.shields.io/cocoapods/v/NoticeWorker.svg?style=flat)](https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Version](https://img.shields.io/badge/ios-11.0-blue.svg?style=flat)] 
+(https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Version](https://img.shields.io/cocoapods/v/NoticeWorker.svg?style=flat)]
+(https://jitpack.io/#SeHwanOh/OpenSource_Android)
 [![License](https://img.shields.io/cocoapods/l/NoticeWorker.svg?style=flat)]
 (https://jitpack.io/#SeHwanOh/OpenSource_Android)
-[![Platform](https://img.shields.io/cocoapods/p/NoticeWorker.svg?style=flat)](https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Platform](https://img.shields.io/cocoapods/p/NoticeWorker.svg?style=flat)]
+(https://jitpack.io/#SeHwanOh/OpenSource_Android)
 
 NoticeWorker (1.0.2)  
 May 17th, 14:31  
