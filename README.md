@@ -26,8 +26,7 @@ dependencies {
 GitHub Deployment Repo URL : https://github.com/SeHwanOh/OpenSource_Android 
 JitPack URL : https://jitpack.io/#SeHwanOh/OpenSource_Android
   
-[![Version](https://img.shields.io/badge/version-v0.7.0-green.svg?style=flat)]
-(https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Version](https://img.shields.io/badge/version-v0.7.0-green.svg?style=flat)](https://jitpack.io/#SeHwanOh/OpenSource_Android)
 
 [![Version](https://img.shields.io/badge/ios-11.0-blue.svg?style=flat)] 
 (https://jitpack.io/#SeHwanOh/OpenSource_Android)
