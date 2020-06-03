@@ -33,4 +33,4 @@ JitPack URL : https://jitpack.io/#SeHwanOh/OpenSource_Android
 [![Platform](https://img.shields.io/cocoapods/p/NoticeWorker.svg?style=flat)](https://jitpack.io/#SeHwanOh/OpenSource_Android)
 
 NoticeWorker (1.0.2)  
-May 17th, 14:31  
+June 3rd, 17:40  
