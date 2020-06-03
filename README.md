@@ -23,14 +23,16 @@ dependencies {
 
 
 ## Android Deployment Cocoapods
-GitHub Deployment Repo URL : https://github.com/della-padula/NoticeWorker  
-Cocoapods URL : https://cocoapods.org/pods/NoticeWorker  
+GitHub Deployment Repo URL : https://github.com/SeHwanOh/OpenSource_Android 
+JitPack URL : https://jitpack.io/#SeHwanOh/OpenSource_Android
   
-[![Version](https://img.shields.io/badge/version-v0.7.0-green.svg?style=flat)](https://cocoapods.org/pods/NoticeWorker)
-[![Version](https://img.shields.io/badge/ios-11.0-blue.svg?style=flat)](https://cocoapods.org/pods/NoticeWorker)
-[![Version](https://img.shields.io/cocoapods/v/NoticeWorker.svg?style=flat)](https://cocoapods.org/pods/NoticeWorker)
-[![License](https://img.shields.io/cocoapods/l/NoticeWorker.svg?style=flat)](https://cocoapods.org/pods/NoticeWorker)
-[![Platform](https://img.shields.io/cocoapods/p/NoticeWorker.svg?style=flat)](https://cocoapods.org/pods/NoticeWorker)  
+[![Version](https://img.shields.io/badge/version-v0.7.0-green.svg?style=flat)]
+(https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Version](https://img.shields.io/badge/ios-11.0-blue.svg?style=flat)] (https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Version](https://img.shields.io/cocoapods/v/NoticeWorker.svg?style=flat)](https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![License](https://img.shields.io/cocoapods/l/NoticeWorker.svg?style=flat)]
+(https://jitpack.io/#SeHwanOh/OpenSource_Android)
+[![Platform](https://img.shields.io/cocoapods/p/NoticeWorker.svg?style=flat)](https://jitpack.io/#SeHwanOh/OpenSource_Android)
 
-NoticeWorker (0.7.0)  
+NoticeWorker (1.0.2)  
 May 17th, 14:31  
