@@ -3,16 +3,11 @@ package project.demo
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import kotlinx.android.synthetic.main.activity_main.*
-import project.noticeworker.NoticeWorker
-import project.noticeworker.base.Major
-import org.jsoup.Jsoup
-import project.noticeworker.soongsil.SSU
-import java.lang.Exception
+import project.noticeworker.soongsil.SeoulNational
 
 
 class MainActivity : AppCompatActivity() {
@@ -24,9 +19,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        schoolName.text = "SSU"
+        schoolName.text = "SNU"
 
-        val deptMap = SSU.getDeptList()
+        val deptMap = SeoulNational.getDeptList()
 
 
         val deptAdapter = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, deptMap)
@@ -42,10 +37,10 @@ class MainActivity : AppCompatActivity() {
         var majorMap : List<String>
 
         startDept.setOnClickListener {
-            SSU.loadMajor((SSU.Depertments[deptNumber].DeptName))
+            SeoulNational.loadMajor((SeoulNational.Depertments[deptNumber].DeptName))
 
             // 학과 호출
-            majorMap = SSU.getMajorList(SSU.Depertments[deptNumber].DeptName)!!
+            majorMap = SeoulNational.getMajorList(SeoulNational.Depertments[deptNumber].DeptName)!!
             val majorAdapter = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, majorMap)
             majorSpin.adapter = majorAdapter
             majorSpin.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {

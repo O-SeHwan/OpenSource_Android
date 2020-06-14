@@ -1,7 +1,5 @@
 package project.noticeworker
 
-import project.noticeworker.soongsil.SSU
-
 object NoticeWorker {
     val instance: NoticeWorker = NoticeWorker
 

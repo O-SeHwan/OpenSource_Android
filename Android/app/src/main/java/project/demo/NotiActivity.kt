@@ -13,7 +13,7 @@ import kotlinx.coroutines.withContext
 import org.jsoup.Jsoup
 import project.noticeworker.base.Major
 import project.noticeworker.base.Notice
-import project.noticeworker.soongsil.SSU
+import project.noticeworker.soongsil.SeoulNational
 
 class NotiActivity : AppCompatActivity() {
     var majorNumber = 0
@@ -41,9 +41,8 @@ class NotiActivity : AppCompatActivity() {
         deptNumber = intent.getIntExtra("dept", 0)
         majorNumber = intent.getIntExtra("major", 0)
 
-        val tmp = SSU.Depertments[deptNumber].majorList[majorNumber] as Major
+        val tmp = SeoulNational.Depertments[deptNumber].majorList[majorNumber] as Major
         val url = tmp.getURL(1,"")
-        Log.d("Test", url)
 
         CoroutineScope(Dispatchers.Main).launch {
             // Show progress from UI thread
